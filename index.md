@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎使用Lollipop表白墙
 
 You can use the [editor on GitHub](https://github.com/CreatechStudio/lollipop-report/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
