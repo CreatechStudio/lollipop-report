@@ -1,8 +1,8 @@
 ## 欢迎使用Lollipop表白墙
 
-You can use the [editor on GitHub](https://github.com/CreatechStudio/lollipop-report/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+欢迎使用由ATATC开发的Lollipop表白墙，此处是由CreatechStudio运营的后台维护系统
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+你可以在[问题]（https://github.com/CreatechStudio/lollipop-report/issues）
 
 ### Markdown
 
