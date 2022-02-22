@@ -2,7 +2,7 @@
 
 欢迎使用由ATATC开发的Lollipop表白墙，此处是由CreatechStudio运营的后台维护系统
 
-你可以在[问题]（https://github.com/CreatechStudio/lollipop-report/issues）
+你可以在[Issue](https://github.com/CreatechStudio/lollipop-report/issues)
 
 ### Markdown
 
